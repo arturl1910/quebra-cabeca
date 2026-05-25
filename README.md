@@ -1,4 +1,4 @@
-# quebra-cabe-a
+# quebra-cabeca
 
 https://arturl1910.github.io/quebra-cabeca/inicio.html
 
