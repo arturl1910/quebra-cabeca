@@ -20,3 +20,6 @@ Regras:
 - não poderá montar o quebra-cabeça antes de começar o
 cronômetro;
 - Terá que completar o quebra-cabeça antes do tempo chegar a 0.
+
+- link figma
+- https://www.figma.com/design/rvUyuu2yg9TRLk3dxdq203/Untitled?node-id=3-2&t=vI3F9ffpwtDSpcwi-1
